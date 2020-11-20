@@ -5,7 +5,7 @@ This bot uses a dictionary which maps expressions to answers.
 
 `<show "searchterm"` Outputs the answers for a certain expression. Outputs answers for both exact and wildcard dictionary.
 
-`<add "expression" "answer"` Adds an exact entry to the dictionary. The bot will search if a chatmessage exactly matches the first parameter of this command and will send in the chat, the second parameter (the answer). (If a message has more than one answer it will randomly choose one of these answers)
+`<add "expression" "answer"` Adds an exact entry to the dictionary. The bot will search if a chatmessage exactly matches the first parameter of this command and will send it in the chat, the second parameter (the answer). (If a message has more than one answer it will randomly choose one of these answers)
 
 `<addw "expression" "answer"` Adds an wildcard entry to the dictionary. The bot will search if a chatmessage contains the expression and will then output the answer like the `<add` command
 
