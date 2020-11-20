@@ -13,4 +13,4 @@ This bot uses a dictionary which maps expressions to answers.
 
 `<remw "expression" "answer"` Removes the answer for an expression in the wildcar dictionary.
 
-   Tipp: [user] inside quotation marks for a reply will mention the author.
+   Tipp: [user] inside quotation marks for an expression will mention the author.
