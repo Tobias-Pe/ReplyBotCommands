@@ -1,4 +1,4 @@
-# ReplyBotCommands
+# ReplyBot Commands
 This bot uses a dictionary which maps expressions to answers.
 
 `<show` Outputs the exact and the wildcard dictionary. If it's over 2000 characters it will output a JSON file.
